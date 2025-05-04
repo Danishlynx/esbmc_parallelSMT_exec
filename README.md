@@ -160,27 +160,6 @@ The portfolio approach works as follows:
 5. Performance metrics (execution time) are recorded for analysis
 6. Results are formatted for easy visualization
 
-## Integration with Development Workflow
-
-To integrate this portfolio approach into your development workflow:
-
-1. Create a new branch for development:
-   ```bash
-   git checkout -b dev
-   ```
-
-2. Make your changes and commit them:
-   ```bash
-   git add .
-   git commit -m "Your commit message"
-   ```
-
-3. Push to your development branch:
-   ```bash
-   git push origin dev
-   ```
-
-## Extending the Portfolio
 
 ### Adding New Solvers
 
