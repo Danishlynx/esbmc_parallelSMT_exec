@@ -122,7 +122,7 @@ chmod +x portfolio.sh plot_solver_times.sh
 
 ### Basic Usage
 
-##  Move inside Parallel_ESBMC_SMT
+##  Move inside Parallel_ESBMC_SMT Folder
 
 ```bash
 ./portfolio.sh <source_file> [esbmc_options]
