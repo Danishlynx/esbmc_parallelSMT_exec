@@ -1,3 +1,5 @@
+![Mix Test](https://github.com/user-attachments/assets/8b6d5ef2-e309-474a-af52-bd909e41f435)
+
 # ESBMC Portfolio: Multi-Solver Performance Comparison
 
 This project implements a portfolio approach for running ESBMC (Efficient SMT-based Context-Bounded Model Checker) with multiple SMT solvers in parallel. The approach allows for comparing the performance of different solvers on the same verification task and leveraging the fastest solver to get results more quickly.
