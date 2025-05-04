@@ -1,0 +1,5 @@
+Solver Time
+z3 .427987520
+boolector .531780334
+yices .311917164
+cvc5 .417328769
